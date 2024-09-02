@@ -1,0 +1,6 @@
+ticket_id,customer_name,issue_category,description,status
+TCK001,John Smith," ""Technical Issue""","""My website is not loading""",Open
+TCK002,Jane Doe,"""Billing Inquiry""","""Question about my recent invoice""",Closed
+TCK003, Michael Lee," ""Account Management""","""Request to change email address""",On Hold
+TCK004, Sarah Jones,"""Featured Request"""," ""Suggestion for a new feature""",New
+TCK005,David Miller," ""General Question""","""How do I use this product?""", Resolved
