@@ -1,0 +1,6 @@
+Booking_id,Destination,travel_date,Traveler_name,Duration,Accomodation_type
+BK1234,"Paris, France",2024-08-10,John Smith,7 days,Hotel
+BK5678,"Rome,Italy",2024-09-01,Jane DEo,5 days,Apartment
+BK9012,"New York city,USA",2024-10-25,Michael lee,3 days,Airbnb
+BK2345,"Tokyo,Japan",2024-11-15,Sarah Jones,10 days,Hostel
+BK5678,"London,England",2024-12-20,David Miller,4 days,Hotel
